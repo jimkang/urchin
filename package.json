@@ -1,0 +1,25 @@
+{
+  "name": "urchin",
+  "version": "1.0.0",
+  "description": "A simple command line tweet tool.",
+  "main": "urchin.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/urchin.git"
+  },
+  "keywords": [],
+  "author": "Jim Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimkang/urchin/issues"
+  },
+  "homepage": "https://github.com/jimkang/urchin",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "dependencies": {
+    "conform-async": "^1.1.1",
+    "twit": "^1.1.20"
+  }
+}
