@@ -25,14 +25,14 @@ Installation
 12. `npm install`
 13. Create a `config.js` file in the project root that contains your [Twitter API keys](https://apps.twitter.com/). Example:
 
-    module.exports = {
-      twitter: {
-        consumer_key: 'asdfkljqwerjasdfalpsdfjas',
-        consumer_secret: 'asdfasdjfbkjqwhbefubvskjhfbgasdjfhgaksjdhfgaksdxvc',
-        access_token: '9999999999-zxcvkljhpoiuqwerkjhmnb,mnzxcvasdklfhwer',
-        access_token_secret: 'opoijkljsadfbzxcnvkmokwertlknfgmoskdfgossodrh'
-      }
-    };
+        module.exports = {
+          twitter: {
+            consumer_key: 'asdfkljqwerjasdfalpsdfjas',
+            consumer_secret: 'asdfasdjfbkjqwhbefubvskjhfbgasdjfhgaksjdhfgaksdxvc',
+            access_token: '9999999999-zxcvkljhpoiuqwerkjhmnb,mnzxcvasdklfhwer',
+            access_token_secret: 'opoijkljsadfbzxcnvkmokwertlknfgmoskdfgossodrh'
+          }
+        };
 
 Usage
 -----
